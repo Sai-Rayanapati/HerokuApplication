@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/subbu/Downloads/demo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/subbu/Downloads/demo/target/flow-frontend",
+  "staticOutput": "/Users/subbu/Downloads/demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/Users/subbu/Downloads/demo/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/subbu/Downloads/demo/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
